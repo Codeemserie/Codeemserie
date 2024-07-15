@@ -1,8 +1,7 @@
 # PS SoftHouse Portfolio
 
-![GitHub stars](https://img.shields.io/github/stars/PSSoftHouse?style=social)
-![GitHub forks](https://img.shields.io/github/forks/PSSoftHouse?style=social)
-![GitHub followers](https://img.shields.io/github/followers/PSSoftHouse?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Codeemserie?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Codeemserie?style=social)
 
 ## Tabela de Conteúdo
 
