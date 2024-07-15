@@ -1,4 +1,4 @@
-# PS SoftHouse Portfolio
+# PS SoftHouse
 
 Bem-vindo à PS SoftHouse! Somos uma equipe talentosa e dedicada, especializada em Web Design, Desenvolvimento Web e UX/UI. Nosso objetivo é transformar suas ideias em experiências digitais impactantes e eficazes.
 
